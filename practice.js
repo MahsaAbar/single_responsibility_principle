@@ -62,7 +62,7 @@ function bakeAndSellPies(pieType, pieQuantity, profitMargin) {
 }
 
 /******************************* LOCAL TESTS *******************************/
-// bakeAndSellPies("applePie", 5, 2.5);
+bakeAndSellPies("applePie", 5, 2.5);
 // bakeAndSellPies("pumpkinPie", 2);
 // bakeAndSellPies("cherryPie", 7, 1.7);
 
